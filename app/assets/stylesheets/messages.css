@@ -37,11 +37,11 @@ body{
   overflow: scroll;
 }
 
-.side_bar_roomname{
+.side_bar_room_name{
   padding: 20px 0 40px;
 }
 
-.side_bar_roomname a{
+.side_bar_room_name a{
   text-decoration: none;
   color: white;
 }
